@@ -15,11 +15,11 @@ Internet connection
 No external libraries needed (uses only built-in modules)
 
 # Installation
-Download the lichess_simple.py file
+Download the topgames.py file
 No additional installation required!
 
 # Usage
 Run the script from the command line:
 
-python lichess_simple.py
+python topgames.py
 When prompted, enter any valid Lichess username.
